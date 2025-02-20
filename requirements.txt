@@ -2,4 +2,5 @@ plotly
 pandas
 streamlit
 sqlalchemy
-openpyxlpymysql
+openpyxl
+pymysql
